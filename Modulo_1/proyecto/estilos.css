@@ -1,35 +1,5 @@
 /* Reset */
  
-:root {
-  /* Colores */
-  --primary-color: #0d9488;
-  --primary-hover: #0b8378;
-  --text-color: #333;
-  --light-text: #888;
-  --bg-color: #f9fafb;
-  --card-bg: #f1f5f9;
-  --white: #ffffff;
-  
-  /* Sombras */
-  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.05);
-  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
-  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
-  
-  /* Transiciones */
-  --transition-fast: all 0.2s ease;
-  --transition-normal: all 0.3s ease;
-  --transition-slow: all 0.5s ease;
-  
-  /* Espaciados */
-  --space-xs: 0.5rem;
-  --space-sm: 1rem;
-  --space-md: 1.5rem;
-  --space-lg: 2rem;
-  --space-xl: 3rem;
-  --space-xxl: 4rem;
-}
-
-
 
 *,
   *::before,
